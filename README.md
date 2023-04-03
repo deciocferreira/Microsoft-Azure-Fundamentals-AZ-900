@@ -10,7 +10,7 @@ O curso Azure Fundamentals pode ser usado para preparar o candidato para outras 
 
 ## Metodologias de estudo
 
-Utilizei como material de estudo um curso preparatório totalmente gratuito da instituição **Procoding** e após finalizá-lo, fiz revisões do conteúdo assistindo vídeos do canal da Cloud e realizando questionários, pelo menos uma(1) hora ou mais por dia, até chegar o dia de realização do exame. (Links no tópico de referências)
+Utilizei como material de estudo um curso preparatório totalmente gratuito da instituição **Procoding**. Depois finalizá-lo, fiz revisões do conteúdo assistindo vídeos do canal da Cloud e realizei questionários, por pelo menos uma(1) hora ou mais por dia, até chegar o dia de realização do exame. (Links no tópico de referências)
 
 ## Referências
 
@@ -19,6 +19,8 @@ Utilizei como material de estudo um curso preparatório totalmente gratuito da i
 *https://learn.microsoft.com/pt-br/certifications/azure-fundamentals/*
 
 *https://learn.microsoft.com/pt-br/certifications/resources/study-guides/az-900*
+  
+*https://learn.microsoft.com/en-us/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23&source=docs*  
 
 *https://procoding.com.br/cursos/pro-az-900/on-demand*
 
