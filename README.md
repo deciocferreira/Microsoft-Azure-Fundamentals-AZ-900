@@ -12,6 +12,14 @@ O curso Azure Fundamentals pode ser usado para preparar o candidato para outras 
 
 Utilizei como material de estudo um curso preparatório totalmente gratuito da instituição **Procoding**. Depois finalizá-lo, fiz revisões do conteúdo assistindo vídeos do canal da Cloud e realizei questionários, por pelo menos uma(1) hora ou mais por dia, até chegar o dia de realização do exame. (Links no tópico de referências)
 
+## Sobre o exame
+
+O mesmo custa U$$60. Para poder fazer de forma gratuita, participei de um evento da Microsoft onde, consegui um *voucher* que me garantiu 100% de desconto.
+
+Atualmente ainda existem vouchers, mas acredito que de 50%. Todo o material listado a seguir pode ser acesso de forma gratuita.
+
+Bons estudos!
+
 ## Referências
 
 *https://learn.microsoft.com/pt-br/certifications/exams/az-900/*
